@@ -1,0 +1,115 @@
+body{
+    background-color:rgba(255, 255, 255, 0.717);
+    padding: 0;
+    margin: 0;
+}
+.banner{
+    background-color: rgb(12, 12, 116);
+    padding: 0.8em;
+}
+
+div h1{
+    color: white;
+    font-family: verdana;
+}
+label{
+    color: white;
+    font-family: georgia;
+}
+
+#a{
+    border: 2px solid black;
+    background-color: rgb(25, 50, 200);
+    padding: 4px;
+    color: white;
+    font-weight: bold;
+    font-family: Verdana;
+    position: relative;
+    left: o.3cm;
+}
+#a:hover{
+    background-color:rgb(16, 145, 203);
+    color: yellow;
+}
+.form{
+    position: absolute;
+    left: 20cm;
+    top: 0.3cm;
+}
+#b{
+    position: relative;
+    bottom: 0.7cm;
+    left: 1.9cm;
+}
+#c{
+    position: relative;
+    top: 0.3cm;
+}
+.body h1{
+    font-family: 'Trebuchet MS';
+    color: black;
+    font-weight: bolder;
+    font-size: 38px;
+    padding: 3% 0px 12px 6%;
+}
+
+span{
+    font-weight: bolder;
+    font-family:'Trebuchet MS';
+    position: relative;
+    left: 2cm;
+    top: -1cm;
+}
+img{
+    position: relative;
+    left: 2cm;
+}
+.signup h1{
+    position: absolute;
+    left: 20cm;
+    top: 3cm;
+    font-family: verdana;
+    font-weight: bolder;
+    font-size: 35px;
+    color: black;
+}
+.signup h4{
+    position: absolute;
+    left: 20cm;
+    top: 4.5cm;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: black;
+}
+
+#d{
+    position: absolute;
+    left: 20cm;
+    top: 6.3cm;
+}
+#d input{
+    padding: 8px;
+}
+
+h4{
+    position: absolute;
+    left: -0.1cm;
+    top: 3.7cm;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-size: 30px;
+    color: black;
+}
+#e{
+    background-color: rgb(25, 81, 203);
+    border-radius: 4px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    color: white;
+}
+
+#e:hover{
+    background-color: rgb(42, 167, 216);
+
+}
